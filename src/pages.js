@@ -5,6 +5,7 @@ export default function Projects() {
   return (
     <main>
       <NavBar/>
+      <p>This is normal text - <b>and this is bold text</b>.</p>
     </main>
   )
 }
@@ -13,6 +14,7 @@ export function Resume() {
   return (
     <main>
       <NavBar/>
+      <p>This is shit text - <b>and this is bold text</b>.</p>
     </main>
   )
 }
@@ -29,6 +31,7 @@ export function ReadingList() {
   return (
     <main>
       <NavBar/>
+      <p>This is normal text - <b>and this is bold text</b>.</p>
     </main>
   )
 }
