@@ -15,6 +15,9 @@ root.render(
     <h1 className="pl-2 text-3xl font-bold underline">
       Thomas Baker
     </h1>
+    <h1 className="pl-2 text-l">
+      love any and all engineering (except frontend🤢)
+    </h1>
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Projects/>}/>
