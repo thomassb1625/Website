@@ -4,10 +4,10 @@ import './css/index.css';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
-import Projects from './pages';
-import Resume from './pages';
-import Contact from './pages';
-import ReadingList from './pages';
+import Projects from './pages/Projects';
+import Resume from './pages/Resume';
+import Contact from './pages/Contact';
+import ReadingList from './pages/ReadingList';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
