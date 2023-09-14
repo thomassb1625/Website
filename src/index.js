@@ -16,7 +16,7 @@ root.render(
       Thomas Baker
     </h1>
     <h1 className="pl-2 text-l">
-      love any and all engineering (except frontend🤢)
+      big stem guy 🧮 🚀 🤖
     </h1>
     <BrowserRouter>
       <Routes>

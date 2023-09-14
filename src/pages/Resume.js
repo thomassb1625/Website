@@ -3,8 +3,8 @@ import NavBar from '../utils/NavBar';
 const Resume = () => {
     return(
       <main>
-        <NavBar/>
-        <p className='pl-2'>Resume will go here at some point</p>
+        <NavBar selected='resume'/>
+        <embed className='pl-10' src="/resume.pdf#toolbar=0&navpanes=0" type="application/pdf" width="50%" height="1000px" />
       </main>
     )
 };
