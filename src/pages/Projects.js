@@ -30,19 +30,24 @@ const Projects = () => {
           <li className='pl-4'>Worked on core team from Blockchain@GT to put together the biggest Web3 conference in ATL to date</li>
           <li className='pl-4'>Techincal "role" was external relations, but we all grinded on everything to get it done</li>
           <li className='pl-4'>Over 50 speakers, 500 attendeees and big name sponsoes including Chainlink, OpenZeppelin, Binance, etc.</li>
-        <p className='pl-2 underline'>Institutional DeFi Risk Report:</p>
-        <li className='pl-4'>Paper: <a href='DeFi Risk Framework.pdf' rel='noreferrer' target='_blank' className='hover:underline text-blue-700'>Baseline Risk Framework for Institutions
-Interacting with DeFi</a></li>
-          <li className='pl-4'>Genesis project for researching the risks involved with an institution integratiing into </li>
-          <li className='pl-4'>My goal was to give atleast a foundation for actually quantifying the unique risks in DeFi</li>
-          <li className='pl-4'>Unfortunately was't fully finished before I got sent to next rotation</li>
-        <p className='pl-2 underline'>BTC gamma hedger:</p>
         <p className='pl-2 underline'>BTC options vault:</p>
-          <li className='pl-4'>Website: <a href='https://www.web3atl.io/' rel='noreferrer' target='_blank' className='hover:underline text-blue-700'>2022.web3atl.io</a></li>
+          <li className='pl-4'>Repo: <a href='https://www.web3atl.io/' rel='noreferrer' target='_blank' className='hover:underline text-blue-700'>2022.web3atl.io</a></li>
+          <li className='pl-4'>Presentation: <a href='Genesis Sales Project.pdf' rel='noreferrer' target='_blank' className='hover:underline text-blue-700'>Genesis Sales Project</a></li>
+          <li className='pl-4'>Proposed new product for Genesis sales desk (part of overall sales project) made using my newfound derivatives knowledge</li>
+          <li className='pl-4'>Thesis is many investors want exposure to BTC without the crazy vol, and my solution was a call-overwriting BTC fund</li>
+          <li className='pl-4'>Used some basic pandas and python to backtest what it's performance would've looked like over the past few years</li>
+        <p className='pl-2 underline'>BTC gamma hedger:</p>
+          <li className='pl-4'>Repo: <a href='https://www.web3atl.io/' rel='noreferrer' target='_blank' className='hover:underline text-blue-700'>2022.web3atl.io</a></li>
           <li className='pl-4'>My intro to the derivatives market, some wizards at Genesis helped me learn the ins and outs of Black-Scholes and the Greeks</li>
           <li className='pl-4'>Goal was to optimize the rate that our derivatives desking was rebalancing it's BTC holdings (to rebalance gamma) based on market conditions</li>
           <li className='pl-8'>Rebalance too fast, get eaten alive on trading fees; rebalance too slow, miss out on returns from vol in the interim</li>
           <li className='pl-4'>Used python, pandas, and an ungodly amount of combinations of data from CryptoQuant</li>
+        <p className='pl-2 underline'>Institutional DeFi Risk Report:</p>
+          <li className='pl-4'>Paper: <a href='DeFi Risk Framework.pdf' rel='noreferrer' target='_blank' className='hover:underline text-blue-700'>Baseline Risk Framework for Institutions
+            Interacting with DeFi</a></li>
+          <li className='pl-4'>Genesis project for researching the risks involved with an institution integratiing into </li>
+          <li className='pl-4'>My goal was to give atleast a foundation for actually quantifying the unique risks in DeFi</li>
+          <li className='pl-4'>Unfortunately was't fully finished before I got sent to next rotation</li>
         <p className='pl-2 underline'>Mars Lander:</p>
           <li className='pl-4'>Website: <a href='https://www.web3atl.io/' rel='noreferrer' target='_blank' className='hover:underline text-blue-700'>2022.web3atl.io</a></li>
           <li className='pl-4'>My intro to the derivatives market, some wizards at Genesis helped me learn the ins and outs of Black-Scholes and the Greeks</li>
