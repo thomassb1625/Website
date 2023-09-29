@@ -20,7 +20,7 @@ const Projects = () => {
           <li className='pl-4'>Cross-chain liquidation bot written using ethers and the SquidRouter (cross-chain DEX) SDK</li>
           <li className='pl-4'>Solo project for Prime, did best to make it configurable so people and plug and play as they please</li>
           <li className='pl-4'>Used combination of on and off chain data to make computations more efficient</li> */}
-        <p className='pl-2 underline'>Arbitrage Bot:</p>
+        <p className='pl-2 underline'>MEV Arbitrage Bot:</p>
           <li className='pl-4'>Repo: <a href='https://github.com/thomassb1625/arbitrage-bot-public-clone' rel='noreferrer' target='_blank' className='hover:underline text-blue-700'>github.com/thomassb1625/arbitrage-bot-public-clone</a></li>
           <li className='pl-4'>Rudimentary MEV bot, had my hand held by much better devs that helped me learn the skills used at Prime</li>
           <li className='pl-4'>Spent most of my time to reading DEX contracts and replicating mathematics in golang so we could calculate arbitrage opportunities</li>
