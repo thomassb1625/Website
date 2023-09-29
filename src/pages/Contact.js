@@ -18,7 +18,7 @@ const Contact = () => {
         </p>
         <p className='pl-2'>
           <img src='/linkedinlogo.png' alt="LinkedIn Logo" className="h-3 inline-block align-middle mr-2"/>
-          linkedin: <a href='www.linkedin.com/in/thomas-baker-a90414168' rel='noreferrer' target='_blank' className='hover:underline hover:text-blue-700'>Thomas Baker</a>
+          linkedin: <a href='https://www.linkedin.com/in/thomas-baker-a90414168/' rel='noreferrer' target='_blank' className='hover:underline hover:text-blue-700'>Thomas Baker</a>
         </p>
       </main>
     )
