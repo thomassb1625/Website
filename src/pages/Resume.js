@@ -4,7 +4,7 @@ const Resume = () => {
     return(
       <main>
         <NavBar selected='resume'/>
-        <embed className='pl-10' src="/resume.pdf#toolbar=0&navpanes=0" type="application/pdf" width="50%" height="1000px" />
+        <embed className='pl-10' src="/resume.pdf#toolbar=0&navpanes=0" type="application/pdf" width="1000px" height="1000px" />
       </main>
     )
 };
